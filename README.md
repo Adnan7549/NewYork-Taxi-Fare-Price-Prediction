@@ -4,7 +4,9 @@ This web app is created using streamlit and deployed on Heroku platform.
 The dataset of "New York taxi price" is taken from the kaggle.
 Python language and its libraries: Numpy, Pandas, Scikit learn,Seaborn, Matplotlib, and streamlit are used.
 Following metrices are used: Mean absolute error, Mean squared error and R squared score.
+
 Following parameter are being concerned for predicting the Fare price: 
+
       1. No.of Passengers
       2. Trip distance calculated by Taxi meter
       3. Rate code ID 
