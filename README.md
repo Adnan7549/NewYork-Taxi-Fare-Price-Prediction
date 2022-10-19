@@ -15,5 +15,6 @@ Following parameter are being concerned for predicting the Fare price:
       8. Congestion surcharged
       9. Airport fee
       10. Day of week
-      11. Timing of the day
+      11. Timing of the day.
+      
  Linear Regression machine learning algorithm is being used for the prediction.
