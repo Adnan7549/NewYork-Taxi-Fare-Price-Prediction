@@ -19,7 +19,7 @@ Following parameter are being concerned for predicting the Fare price:
       10. Day of week
       11. Timing of the day.
       
-A web app which helps to predict the taxi fare price in the New York city.
+This web app will help to predict the taxi fare price in the New York city.
 Performed proper Data cleaning, Handling missing values, and Exploratory data analysis (EDA) of the dataset.
 Multiple Algorithms like Linear Regression, Decision Tree, Random Forest Bagging, XG Boost,etc are used to check the best performance.
 Enhanced R2 Score from 72% to 92% and reduced RMSE from 5% to 3%.
