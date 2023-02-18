@@ -19,4 +19,8 @@ Following parameter are being concerned for predicting the Fare price:
       10. Day of week
       11. Timing of the day.
       
- Linear Regression machine learning algorithm is being used for the prediction.
+A web app which helps to predict the taxi fare price in the New York city.
+Performed proper Data cleaning, Handling missing values, and Exploratory data analysis (EDA) of the dataset.
+Multiple Algorithms like Linear Regression, Decision Tree, Random Forest Bagging, XG Boost,etc are used to check the best performance.
+Enhanced R2 Score from 72% to 92% and reduced RMSE from 5% to 3%.
+This web app is created using streamlit and deployed on Heroku platform
